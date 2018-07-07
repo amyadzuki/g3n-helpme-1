@@ -1,5 +1,5 @@
 ## Background
-The demo [hellog3n](https://github.com/g3n/demos/hellog3n) works flawlessly, but I wanted +Z to be up rather than +Y.
+The demo [hellog3n](https://github.com/g3n/demos) works flawlessly, but I wanted +Z to be up rather than +Y.
 
 ## What I changed
 I made three changes:
