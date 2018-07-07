@@ -1,6 +1,3 @@
-# g3n-helpme-1
-Why doesn't this work?
-
 ## Background
 The demo [hellog3n](https://github.com/g3n/demos/hellog3n) works flawlessly, but I wanted +Z to be up rather than +Y.
 
