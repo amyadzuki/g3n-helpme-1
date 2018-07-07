@@ -15,7 +15,7 @@ I made three changes:
 3.  A sphere doesn't have a visible "up" direction, so I changed it to a cylinder which tapers inward toward the top.
 
 ## What I expected
--   I expected to see a red axis helper leading from the center to the right: as expected
--   I expected to see a blue axis helper leading from the center to the top: almost as expected, but it was "shorter" than the red one indicating the camera was not level
--   I expected to see no green axis helper as it should be leading from the center away from the viewer: not as expected, it was visible pointing downward
--   I expected to see a tapered cylinder standing upright with the small end up: not as expected, it was upside-down and angled with the higher part (the botttom) closer to the viewer than the lower part (the top)
+-   I expected to see a red axis helper leading from the center to the right: **as expected**
+-   I expected to see a blue axis helper leading from the center to the top the same size as the red axis helper: **not as expected**, it did lead upward from the center but it was "shorter" than the red one indicating the camera was not level
+-   I expected to see no green axis helper as it should be leading from the center away from the viewer: **not as expected**, it was visible pointing downward
+-   I expected to see a tapered cylinder standing upright with the small end up: **not as expected**, it was upside-down and angled with the higher part (the botttom) closer to the viewer than the lower part (the top)
